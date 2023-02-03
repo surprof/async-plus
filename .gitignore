@@ -1,2 +1,7 @@
 *.class
+*.tasty
 *.log
+*-SNAPSHOT.jar
+.bsp/
+.idea/
+target/
